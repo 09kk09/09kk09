@@ -1,12 +1,22 @@
 <!DOCTYPE html>
+
 <HTML dir="rtl" lang="ar">
+
 <head>
+
 <title> Football Fun Page</title>
 </head>
+
 <body>
+
 <h1/>تعمل كرة القدم على جمع الناس معا <h1>
+
 الهدف من حضور الجمهور في هذه اللعبه هو تشجيع <p>
+
 <p/> اللاعبين في اثناء المباراة
+
 <h2/> عمل الطالب راكان الزهراني  <h2>
+
 </body>
+
 </HTML>
